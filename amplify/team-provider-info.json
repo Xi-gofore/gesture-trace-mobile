@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gesturetrace-dev-180538-authRole",
+      "UnauthRoleArn": "arn:aws:iam::118705171482:role/amplify-gesturetrace-dev-180538-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::118705171482:role/amplify-gesturetrace-dev-180538-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-gesturetrace-dev-180538-deployment",
+      "UnauthRoleName": "amplify-gesturetrace-dev-180538-unauthRole",
+      "StackName": "amplify-gesturetrace-dev-180538",
+      "StackId": "arn:aws:cloudformation:eu-west-1:118705171482:stack/amplify-gesturetrace-dev-180538/6365ade0-9620-11eb-aa2a-06eaed8d2b47",
+      "AmplifyAppId": "d2tld5rgrwh49s"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+type Coord @model {
+  id: ID!
+  x: Float!
+  y: Float!
+}
